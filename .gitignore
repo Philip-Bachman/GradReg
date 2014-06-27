@@ -1,0 +1,6 @@
+*.mat
+*.m~
+*.fig
+*.eps
+*.DS_STORE
+*.pdf
